@@ -1,0 +1,11 @@
+H:\GitHub\Accounts\Accounts\StudentDataAccess\bin\Debug\StudentDataAccess.dll.config
+H:\GitHub\Accounts\Accounts\StudentDataAccess\bin\Debug\StudentDataAccess.dll
+H:\GitHub\Accounts\Accounts\StudentDataAccess\bin\Debug\StudentDataAccess.pdb
+H:\GitHub\Accounts\Accounts\StudentDataAccess\bin\Debug\EntityFramework.dll
+H:\GitHub\Accounts\Accounts\StudentDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+H:\GitHub\Accounts\Accounts\StudentDataAccess\bin\Debug\EntityFramework.xml
+H:\GitHub\Accounts\Accounts\StudentDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+H:\GitHub\Accounts\Accounts\StudentDataAccess\obj\Debug\StudentDataAccess.csprojAssemblyReference.cache
+H:\GitHub\Accounts\Accounts\StudentDataAccess\obj\Debug\StudentDataAccess.csproj.CopyComplete
+H:\GitHub\Accounts\Accounts\StudentDataAccess\obj\Debug\StudentDataAccess.dll
+H:\GitHub\Accounts\Accounts\StudentDataAccess\obj\Debug\StudentDataAccess.pdb
